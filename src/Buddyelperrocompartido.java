@@ -16,7 +16,7 @@ public class Buddyelperrocompartido {
                 System.out.print(porciones.get(i));
             } else {
                 System.out.print(" " + porciones.get(i));
-            }
+            } // test
         }
     }
 }
